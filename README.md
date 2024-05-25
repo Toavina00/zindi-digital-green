@@ -1,2 +1,2 @@
 # zindi-digital-green
-Zindi Digital Green Challenge
+Zindi Digital Green Challenge notebook
